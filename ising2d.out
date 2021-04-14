@@ -1,0 +1,16 @@
+Number of particles in each dimension [INPUT]:10 
+Number of particles in 2D [INPUT]:100
+Interaction coefficient [INPUT]:1.200000
+Temperature [INPUT]:4.000000
+Total number of configurations= 100
+Accepted configurations for energy calculation =77
+Mean Energy=-12.031169(K)
+Standard deviation of energy values=4.665548 
+
+Number of Monte Carlo steps [INPUT]:10000
+Number of initial configurations for entropy [INPUT]:1000
+Total number of configurations= 10000000
+Accepted configurations for entropy calculation=1820597
+Probability=0.008875
+Entropy=-4.724531(K)
+Free energy=6.866957(K)
